@@ -1,0 +1,723 @@
+[07-Jan-2023 13:24:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 6
+[07-Jan-2023 13:25:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 6
+[07-Jan-2023 14:05:25 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 7
+[07-Jan-2023 14:05:25 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 9
+[07-Jan-2023 14:05:25 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 10
+[07-Jan-2023 14:05:25 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 7
+[07-Jan-2023 14:05:25 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 9
+[07-Jan-2023 14:05:25 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 10
+[07-Jan-2023 14:05:53 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 7
+[07-Jan-2023 14:05:53 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 9
+[07-Jan-2023 14:05:53 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 10
+[07-Jan-2023 14:06:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 6
+[07-Jan-2023 14:07:31 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 9
+[07-Jan-2023 14:07:31 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 11
+[07-Jan-2023 14:07:31 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 12
+[07-Jan-2023 14:07:56 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 10
+[07-Jan-2023 14:07:56 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 12
+[07-Jan-2023 14:07:56 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 13
+[07-Jan-2023 14:10:48 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 10
+[07-Jan-2023 14:10:48 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 12
+[07-Jan-2023 14:10:48 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 13
+[07-Jan-2023 14:10:48 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 10
+[07-Jan-2023 14:10:48 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 12
+[07-Jan-2023 14:10:48 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 13
+[07-Jan-2023 14:11:39 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 10
+[07-Jan-2023 14:11:39 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 12
+[07-Jan-2023 14:11:39 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 14
+[07-Jan-2023 14:11:39 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 10
+[07-Jan-2023 14:11:39 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 12
+[07-Jan-2023 14:11:39 UTC] PHP Warning:  Undefined variable $ID in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 14
+[07-Jan-2023 14:11:51 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 13
+[07-Jan-2023 14:11:51 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: array + string in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php:14
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): check_custom_field_requirement(30)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(4706): do_action('save_post_input...', 30, Object(WP_Post), true)
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#5 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#6 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#7 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 14
+[07-Jan-2023 14:11:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\Project\wp-includes\class-wp-recovery-mode-email-service.php on line 372
+[07-Jan-2023 14:11:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\Project\wp-includes\class-wp-recovery-mode-email-service.php on line 373
+[07-Jan-2023 14:13:48 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 15
+[07-Jan-2023 14:13:48 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: array + int in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php:16
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): check_custom_field_requirement(30)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(4706): do_action('save_post_input...', 30, Object(WP_Post), true)
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#5 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#6 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#7 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 16
+[07-Jan-2023 14:14:02 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: array + int in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php:16
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): check_custom_field_requirement(30)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(4706): do_action('save_post_input...', 30, Object(WP_Post), true)
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#5 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#6 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#7 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 16
+[07-Jan-2023 14:16:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 9
+[07-Jan-2023 14:23:07 UTC] PHP Warning:  Undefined array key "import" in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 4
+[07-Jan-2023 14:23:44 UTC] PHP Warning:  Undefined array key "import" in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 4
+[07-Jan-2023 14:24:50 UTC] PHP Warning:  Undefined array key "group_63b93e9c8fce7" in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 4
+[07-Jan-2023 14:29:09 UTC] PHP Warning:  Undefined array key "book_name" in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 7
+[07-Jan-2023 14:29:09 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): save_post_with_acf_repeater_data(39)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(39, Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(4717): do_action('save_post', 39, Object(WP_Post), true)
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#5 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#6 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#7 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 7
+[07-Jan-2023 14:30:34 UTC] PHP Warning:  Undefined array key "sub_field_1" in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 7
+[07-Jan-2023 14:30:34 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): save_post_with_acf_repeater_data(39)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(39, Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(4717): do_action('save_post', 39, Object(WP_Post), true)
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#5 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#6 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#7 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 7
+[07-Jan-2023 14:30:57 UTC] PHP Warning:  Undefined array key "book_name" in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 7
+[07-Jan-2023 14:30:57 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): save_post_with_acf_repeater_data(39)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(39, Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(4717): do_action('save_post', 39, Object(WP_Post), true)
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#5 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#6 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#7 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 7
+[07-Jan-2023 18:05:25 UTC] PHP Warning:  copy(C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templatesvendor/dompdf/dompdf/lib/fonts/dompdf_font_family_cache.dist.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\wp-pdf-templates.php on line 172
+[07-Jan-2023 18:06:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Dompdf.php on line 618
+[07-Jan-2023 18:06:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Dompdf.php on line 639
+[07-Jan-2023 18:06:26 UTC] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Adapter\CPDF.php on line 174
+[07-Jan-2023 18:06:26 UTC] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Canvas.php on line 27
+[07-Jan-2023 18:06:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 455
+[07-Jan-2023 18:06:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 462
+[07-Jan-2023 18:06:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 469
+[07-Jan-2023 18:06:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 476
+[07-Jan-2023 18:06:26 UTC] PHP Deprecated:  Required parameter $img follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4285
+[07-Jan-2023 18:06:26 UTC] PHP Deprecated:  Required parameter $data follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4588
+[07-Jan-2023 18:06:26 UTC] PHP Deprecated:  Required parameter $imageWidth follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4917
+[07-Jan-2023 18:06:26 UTC] PHP Deprecated:  Required parameter $imageHeight follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4917
+[07-Jan-2023 18:06:26 UTC] PHP Deprecated:  Required parameter $imgname follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4917
+[07-Jan-2023 18:06:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Css\Stylesheet.php on line 1133
+[07-Jan-2023 18:06:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DOMPDF_DEFAULT_PAPER_SIZE" in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\wp-pdf-templates.php:357
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\wp-pdf-templates.php(260): _print_pdf('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(308): _use_pdf_template('')
+#2 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Project\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Project\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Project\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\wp-pdf-templates.php on line 357
+[07-Jan-2023 18:08:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "‘set_pdf_print_support’" in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php:74
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Project\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 74
+[07-Jan-2023 18:09:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "‘set_pdf_print_support’" in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php:74
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 74
+[07-Jan-2023 18:09:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "‘set_pdf_print_support’" in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php:74
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 74
+[07-Jan-2023 18:09:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "‘set_pdf_print_support’" in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php:74
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentythree\functions.php on line 74
+[07-Jan-2023 18:10:04 UTC] PHP Warning:  Attempt to read property "queue" on array in C:\xampp\htdocs\Project\wp-includes\script-loader.php on line 2841
+[07-Jan-2023 18:10:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Project\wp-includes\script-loader.php on line 2841
+[07-Jan-2023 18:10:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Dompdf.php on line 618
+[07-Jan-2023 18:10:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Dompdf.php on line 639
+[07-Jan-2023 18:10:04 UTC] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Adapter\CPDF.php on line 174
+[07-Jan-2023 18:10:04 UTC] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Canvas.php on line 27
+[07-Jan-2023 18:10:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 455
+[07-Jan-2023 18:10:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 462
+[07-Jan-2023 18:10:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 469
+[07-Jan-2023 18:10:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 476
+[07-Jan-2023 18:10:04 UTC] PHP Deprecated:  Required parameter $img follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4285
+[07-Jan-2023 18:10:04 UTC] PHP Deprecated:  Required parameter $data follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4588
+[07-Jan-2023 18:10:04 UTC] PHP Deprecated:  Required parameter $imageWidth follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4917
+[07-Jan-2023 18:10:04 UTC] PHP Deprecated:  Required parameter $imageHeight follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4917
+[07-Jan-2023 18:10:04 UTC] PHP Deprecated:  Required parameter $imgname follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4917
+[07-Jan-2023 18:10:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Css\Stylesheet.php on line 1133
+[07-Jan-2023 18:10:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DOMPDF_DEFAULT_PAPER_SIZE" in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\wp-pdf-templates.php:357
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\wp-pdf-templates.php(260): _print_pdf('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(308): _use_pdf_template('')
+#2 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Project\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Project\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Project\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\wp-pdf-templates.php on line 357
+[07-Jan-2023 18:13:34 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[07-Jan-2023 18:13:59 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "availability" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 361
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "availability" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 362
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "cache_updation_sch" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 396
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "cache_updation_sch" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 397
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "cache_updation_sch" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 398
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "ced_file_name" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 408
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "ced_file_name" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 409
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "authorDetail" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 421
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "authorDetail" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 423
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "authorDetail" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 421
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "authorDetail" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 423
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "authorDetail" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 421
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "authorDetail" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 423
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "authorDetail" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 421
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "authorDetail" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 423
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "link_button" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 519
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "link_button" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 520
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "page_header" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 703
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "page_header" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 704
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "footer_align" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 872
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "footer_align" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 872
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "footer_align" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 872
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "footer_align" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 872
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:00 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:24 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:29 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[07-Jan-2023 18:14:31 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[07-Jan-2023 18:14:45 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:45 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:49 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:14:59 UTC] PHP Warning:  Undefined array key "water_font" in C:\xampp\htdocs\Project\wp-content\plugins\wp-advanced-pdf\libs\wpppdf-tab-general.php on line 909
+[07-Jan-2023 18:16:52 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[07-Jan-2023 18:17:02 UTC] PHP Notice:  Function WP_Scripts::localize was called <strong>incorrectly</strong>. The <code>$l10n</code> parameter must be an array. To pass arbitrary data to scripts, use the <code>wp_add_inline_script()</code> function instead. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.7.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[07-Jan-2023 18:17:44 UTC] PHP Warning:  Undefined array key "cpt" in C:\xampp\htdocs\Project\wp-content\plugins\wp-all-export\actions\wp_ajax_wpae_filtering.php on line 49
+[07-Jan-2023 18:17:44 UTC] PHP Warning:  Undefined array key "cpt" in C:\xampp\htdocs\Project\wp-content\plugins\wp-all-export\actions\wp_ajax_wpae_filtering.php on line 55
+[07-Jan-2023 18:22:13 UTC] PHP Warning:  Attempt to read property "queue" on array in C:\xampp\htdocs\Project\wp-includes\script-loader.php on line 2841
+[07-Jan-2023 18:22:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Project\wp-includes\script-loader.php on line 2841
+[07-Jan-2023 18:22:13 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Dompdf.php on line 618
+[07-Jan-2023 18:22:13 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Dompdf.php on line 639
+[07-Jan-2023 18:22:13 UTC] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Adapter\CPDF.php on line 174
+[07-Jan-2023 18:22:13 UTC] PHP Deprecated:  Required parameter $dompdf follows optional parameter $paper in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Canvas.php on line 27
+[07-Jan-2023 18:22:13 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 455
+[07-Jan-2023 18:22:13 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 462
+[07-Jan-2023 18:22:13 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 469
+[07-Jan-2023 18:22:13 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 476
+[07-Jan-2023 18:22:13 UTC] PHP Deprecated:  Required parameter $img follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4285
+[07-Jan-2023 18:22:13 UTC] PHP Deprecated:  Required parameter $data follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4588
+[07-Jan-2023 18:22:13 UTC] PHP Deprecated:  Required parameter $imageWidth follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4917
+[07-Jan-2023 18:22:13 UTC] PHP Deprecated:  Required parameter $imageHeight follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4917
+[07-Jan-2023 18:22:13 UTC] PHP Deprecated:  Required parameter $imgname follows optional parameter $w in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\lib\Cpdf.php on line 4917
+[07-Jan-2023 18:22:14 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\vendor\dompdf\dompdf\src\Css\Stylesheet.php on line 1133
+[07-Jan-2023 18:22:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DOMPDF_DEFAULT_PAPER_SIZE" in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\wp-pdf-templates.php:357
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\wp-pdf-templates.php(260): _print_pdf('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(308): _use_pdf_template('')
+#2 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Project\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Project\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Project\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\wp-pdf-templates\wp-pdf-templates.php on line 357
+[07-Jan-2023 18:25:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Project\wp-includes\script-loader.php:2295) in C:\xampp\htdocs\Project\wp-admin\includes\misc.php on line 1416
+[07-Jan-2023 18:25:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Project\wp-includes\script-loader.php:2295) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 6865
+[07-Jan-2023 18:25:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Project\wp-includes\script-loader.php:2295) in C:\xampp\htdocs\Project\wp-admin\includes\misc.php on line 1416
+[07-Jan-2023 18:25:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Project\wp-includes\script-loader.php:2295) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 6865
+[07-Jan-2023 18:31:17 UTC] PHP Parse error:  syntax error, unexpected token "*", expecting end of file in C:\xampp\htdocs\Project\wp-content\themes\twentytwentytwo\functions.php on line 11
+[07-Jan-2023 18:47:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\template-parts\content\content-single-inputbook.php:31
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\Project\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Project\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\single-inputbook.php(17): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\Project\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Project\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Project\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\template-parts\content\content-single-inputbook.php on line 31
+[08-Jan-2023 01:12:03 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[08-Jan-2023 01:24:04 UTC] PHP Warning:  Undefined variable $orderBooks in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\template-parts\content\content-single-receipt.php on line 25
+[08-Jan-2023 01:24:04 UTC] PHP Warning:  Undefined variable $orderBooks in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\template-parts\content\content-single-receipt.php on line 26
+[08-Jan-2023 01:24:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\template-parts\content\content-single-receipt.php on line 26
+[08-Jan-2023 01:24:17 UTC] PHP Warning:  Undefined variable $orderBooks in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\template-parts\content\content-single-receipt.php on line 25
+[08-Jan-2023 01:24:17 UTC] PHP Warning:  Undefined variable $orderBooks in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\template-parts\content\content-single-receipt.php on line 26
+[08-Jan-2023 01:24:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\template-parts\content\content-single-receipt.php on line 26
+[08-Jan-2023 01:28:41 UTC] PHP Warning:  Undefined variable $bill_money in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\template-parts\content\content-single-bill.php on line 28
+[08-Jan-2023 01:28:41 UTC] PHP Warning:  Undefined variable $bill_money in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\template-parts\content\content-single-bill.php on line 34
+[08-Jan-2023 01:33:24 UTC] PHP Warning:  Undefined variable $printerList in C:\xampp\htdocs\Project\wp-content\plugins\pdf-builder-for-wpforms\Pages\PDFBuilder.php on line 788
+[08-Jan-2023 01:34:45 UTC] PHP Warning:  Undefined variable $printerList in C:\xampp\htdocs\Project\wp-content\plugins\pdf-builder-for-wpforms\Pages\PDFBuilder.php on line 788
+[08-Jan-2023 01:47:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(39)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 39, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 46
+[08-Jan-2023 01:48:39 UTC] PHP Parse error:  syntax error, unexpected token "." in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 64
+[08-Jan-2023 01:48:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(39)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 39, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 46
+[08-Jan-2023 01:50:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(39)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 39, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 46
+[08-Jan-2023 01:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(39)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 39, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 46
+[08-Jan-2023 01:51:53 UTC] PHP Parse error:  Unclosed '{' on line 33 in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 733
+[08-Jan-2023 01:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(39)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 39, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 46
+[08-Jan-2023 01:52:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(39)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 39, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 46
+[08-Jan-2023 01:53:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(71)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 71, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 46
+[08-Jan-2023 01:53:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(71)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 71, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 46
+[08-Jan-2023 01:54:51 UTC] PHP Warning:  require_once(wp-content/plugins/akismet/mpdf/mpdf.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 63
+[08-Jan-2023 01:54:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'wp-content/plugins/akismet/mpdf/mpdf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:63
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(73)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 73, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 63
+[08-Jan-2023 01:55:10 UTC] PHP Warning:  require_once(/wp-content/plugins/akismet/mpdf/mpdf.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 63
+[08-Jan-2023 01:55:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/wp-content/plugins/akismet/mpdf/mpdf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:63
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(73)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 73, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 63
+[08-Jan-2023 01:57:15 UTC] PHP Warning:  require_once(/mpdf/mpdf.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php on line 27
+[08-Jan-2023 01:57:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/mpdf/mpdf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php:27
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-settings.php(447): include_once()
+#1 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php on line 27
+[08-Jan-2023 01:57:16 UTC] PHP Warning:  require_once(/mpdf/mpdf.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php on line 27
+[08-Jan-2023 01:57:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/mpdf/mpdf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php:27
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-settings.php(447): include_once()
+#1 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Project\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php on line 27
+[08-Jan-2023 01:57:16 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 01:57:16 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 01:57:49 UTC] PHP Warning:  require_once(/mpdf/mpdf/mpdf.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php on line 27
+[08-Jan-2023 01:57:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/mpdf/mpdf/mpdf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php:27
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-settings.php(447): include_once()
+#1 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Project\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php on line 27
+[08-Jan-2023 01:57:49 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 01:57:49 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 01:59:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf\Mpdf.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php(31): require_once()
+#1 C:\xampp\htdocs\Project\wp-settings.php(447): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Project\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Project\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf\Mpdf.php on line 29
+[08-Jan-2023 01:59:04 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 01:59:04 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 02:01:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf\Mpdf.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php(31): require_once()
+#1 C:\xampp\htdocs\Project\wp-settings.php(447): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Project\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Project\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf\Mpdf.php on line 29
+[08-Jan-2023 02:01:17 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 02:01:17 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 02:01:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf\Mpdf.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php(31): require_once()
+#1 C:\xampp\htdocs\Project\wp-settings.php(447): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Project\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Project\wp-admin\post-new.php(10): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf\Mpdf.php on line 29
+[08-Jan-2023 02:01:18 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 02:01:18 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 02:01:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf\Mpdf.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php(31): require_once()
+#1 C:\xampp\htdocs\Project\wp-settings.php(447): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf\Mpdf.php on line 29
+[08-Jan-2023 02:01:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf\Mpdf.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php(31): require_once()
+#1 C:\xampp\htdocs\Project\wp-settings.php(447): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Project\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Project\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf\Mpdf.php on line 29
+[08-Jan-2023 02:01:21 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 02:01:21 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in C:\xampp\htdocs\Project\wp-includes\functions.php on line 5835
+[08-Jan-2023 02:04:56 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php on line 27
+[08-Jan-2023 02:04:57 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php on line 27
+[08-Jan-2023 02:04:57 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\Project\wp-content\plugins\mpdf\mpdf.php on line 27
+[08-Jan-2023 02:09:09 UTC] PHP Fatal error:  Uncaught Error: Class "FPDF" not found in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:55
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(73)
+#1 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 73, Object(WP_Post), true, Object(WP_Post))
+#4 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#6 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#7 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#8 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 55
+[08-Jan-2023 02:09:36 UTC] PHP Warning:  require_once(C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone/mpdf/fpdf.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 36
+[08-Jan-2023 02:09:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone/mpdf/fpdf.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php:36
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\Project\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Project\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Project\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php on line 36
+[08-Jan-2023 02:10:18 UTC] PHP Warning:  include(helveticab.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 1138
+[08-Jan-2023 02:10:18 UTC] PHP Warning:  include(): Failed opening 'helveticab.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 1138
+[08-Jan-2023 02:10:18 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php:273
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(1140): FPDF->Error('Could not inclu...')
+#1 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(461): FPDF->_loadfont('helveticab.php')
+#2 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(509): FPDF->AddFont('helvetica', 'B')
+#3 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php(65): FPDF->SetFont('helvetica', 'B', 16)
+#4 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(73)
+#5 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 73, Object(WP_Post), true, Object(WP_Post))
+#8 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#9 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#10 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#11 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#12 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 273
+[08-Jan-2023 02:10:51 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php:273
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(629): FPDF->Error('No font has bee...')
+#1 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php(68): FPDF->Cell(189.99905555556, 10, 'T\xC3\xAAn s\xC3\xA1ch: Cu\xE1...', 0, 1, 'C')
+#2 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(73)
+#3 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 73, Object(WP_Post), true, Object(WP_Post))
+#6 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#7 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#8 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#9 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#10 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 273
+[08-Jan-2023 02:11:05 UTC] PHP Warning:  include(helveticab.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 1138
+[08-Jan-2023 02:11:05 UTC] PHP Warning:  include(): Failed opening 'helveticab.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 1138
+[08-Jan-2023 02:11:05 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php:273
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(1140): FPDF->Error('Could not inclu...')
+#1 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(461): FPDF->_loadfont('helveticab.php')
+#2 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(509): FPDF->AddFont('helvetica', 'B')
+#3 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php(65): FPDF->SetFont('helvetica', 'B', 16)
+#4 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(73)
+#5 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 73, Object(WP_Post), true, Object(WP_Post))
+#8 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#9 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#10 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#11 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#12 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 273
+[08-Jan-2023 02:12:55 UTC] PHP Warning:  fopen(logo.png): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 1275
+[08-Jan-2023 02:12:55 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php:273
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(1277): FPDF->Error('Can't open imag...')
+#1 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(889): FPDF->_parsepng('logo.png')
+#2 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php(41): FPDF->Image('logo.png', 10, 6, 30)
+#3 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(336): PDF->Header()
+#4 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php(89): FPDF->AddPage()
+#5 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(73)
+#6 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 73, Object(WP_Post), true, Object(WP_Post))
+#9 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#10 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#11 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#12 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#13 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 273
+[08-Jan-2023 02:13:09 UTC] PHP Warning:  include(helveticab.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 1138
+[08-Jan-2023 02:13:09 UTC] PHP Warning:  include(): Failed opening 'helveticab.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 1138
+[08-Jan-2023 02:13:09 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php:273
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(1140): FPDF->Error('Could not inclu...')
+#1 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(461): FPDF->_loadfont('helveticab.php')
+#2 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(509): FPDF->AddFont('helvetica', 'B')
+#3 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php(43): FPDF->SetFont('helvetica', 'B', 15)
+#4 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php(336): PDF->Header()
+#5 C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\functions.php(89): FPDF->AddPage()
+#6 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(310): updateBook(73)
+#7 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\Project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\Project\wp-includes\post.php(5438): do_action('wp_after_insert...', 73, Object(WP_Post), true, Object(WP_Post))
+#10 C:\xampp\htdocs\Project\wp-includes\post.php(4731): wp_after_insert_post(Object(WP_Post), true, Object(WP_Post))
+#11 C:\xampp\htdocs\Project\wp-includes\post.php(4819): wp_insert_post(Array, false, true)
+#12 C:\xampp\htdocs\Project\wp-admin\includes\post.php(426): wp_update_post(Array)
+#13 C:\xampp\htdocs\Project\wp-admin\post.php(227): edit_post()
+#14 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\themes\twentytwentyone\fpdf.php on line 273
+[08-Jan-2023 02:21:35 UTC] PHP Deprecated:  Required parameter $h follows optional parameter $state in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php on line 20447
+[08-Jan-2023 02:21:35 UTC] PHP Deprecated:  Required parameter $textbuffer follows optional parameter $forcewrap in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php on line 21662
+[08-Jan-2023 02:21:35 UTC] PHP Deprecated:  Required parameter $bdf follows optional parameter $mode in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php on line 28891
+[08-Jan-2023 02:21:35 UTC] PHP Deprecated:  Required parameter $url follows optional parameter $value in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\classes\mpdfform.php on line 1026
+[08-Jan-2023 02:21:35 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php on line 30573
+[08-Jan-2023 02:21:35 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\classes\ttfontsuni.php:613
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\classes\ttfontsuni.php(202): TTFontFile->extractInfo(false, true, 255)
+#1 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php(3880): TTFontFile->getMetrics('C:/xampp/htdocs...', 'dejavusansmono', 0, false, true, 255)
+#2 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php(4246): mPDF->AddFont('dejavusansmono', '')
+#3 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php(13622): mPDF->SetFont('dejavusansmono')
+#4 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php(1287): mPDF->SetDefaultFont('dejavusansmono')
+#5 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\pdf-print.php(1306): mPDF->__construct('', 'A4', 11, 'dejavusansmono', 15, 15, 16, 16)
+#6 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(308): pdfprnt_print(Object(WP))
+#7 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\Project\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\Project\wp-includes\class-wp.php(797): do_action_ref_array('wp', Array)
+#10 C:\xampp\htdocs\Project\wp-includes\functions.php(1332): WP->main('')
+#11 C:\xampp\htdocs\Project\wp-blog-header.php(16): wp()
+#12 C:\xampp\htdocs\Project\index.php(17): require('C:\\xampp\\htdocs...')
+#13 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\classes\ttfontsuni.php on line 613
+[08-Jan-2023 02:22:11 UTC] PHP Deprecated:  Required parameter $h follows optional parameter $state in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php on line 20447
+[08-Jan-2023 02:22:11 UTC] PHP Deprecated:  Required parameter $textbuffer follows optional parameter $forcewrap in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php on line 21662
+[08-Jan-2023 02:22:11 UTC] PHP Deprecated:  Required parameter $bdf follows optional parameter $mode in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php on line 28891
+[08-Jan-2023 02:22:11 UTC] PHP Deprecated:  Required parameter $url follows optional parameter $value in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\classes\mpdfform.php on line 1026
+[08-Jan-2023 02:22:11 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php on line 30573
+[08-Jan-2023 02:22:11 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\classes\ttfontsuni.php:613
+Stack trace:
+#0 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\classes\ttfontsuni.php(202): TTFontFile->extractInfo(false, true, 255)
+#1 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php(3880): TTFontFile->getMetrics('C:/xampp/htdocs...', 'dejavusansmono', 0, false, true, 255)
+#2 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php(4246): mPDF->AddFont('dejavusansmono', '')
+#3 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php(13622): mPDF->SetFont('dejavusansmono')
+#4 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\mpdf.php(1287): mPDF->SetDefaultFont('dejavusansmono')
+#5 C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\pdf-print.php(1306): mPDF->__construct('', 'A4', 11, 'dejavusansmono', 15, 15, 16, 16)
+#6 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(308): pdfprnt_print(Object(WP))
+#7 C:\xampp\htdocs\Project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\Project\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\Project\wp-includes\class-wp.php(797): do_action_ref_array('wp', Array)
+#10 C:\xampp\htdocs\Project\wp-includes\functions.php(1332): WP->main('')
+#11 C:\xampp\htdocs\Project\wp-blog-header.php(16): wp()
+#12 C:\xampp\htdocs\Project\index.php(17): require('C:\\xampp\\htdocs...')
+#13 {main}
+  thrown in C:\xampp\htdocs\Project\wp-content\plugins\pdf-print\mpdf\classes\ttfontsuni.php on line 613
