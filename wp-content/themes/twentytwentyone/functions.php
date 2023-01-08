@@ -83,10 +83,21 @@ function getReceipt($post_id) {
 }
 add_action('wp_after_insert_post', 'getReceipt');
 
-// add pdf print support to post type ‘product’
-if(function_exists('set_pdf_print_support')) {
-set_pdf_print_support(array('post', 'page', 'product','book','inputbook','receipt'));
+function getBill($post_id) {
+	if(get_post_type($post_id)!='bill')
+		return;
+     // echo $post_id;
+    $title = get_field("name",$post_id);
+    $ID = get_page_by_title($title, OBJECT, "debtor" );
+    if(!$ID)
+    	return ;
+    $borrow_money  = get_field("borrow_money",$ID);
+    $bill_money = get_field("bill_money",$post_id);
+    update_field("borrow_money",max(0,$borrow_money-$bill_money),$ID);
+   // wp_die();
 }
+add_action('wp_after_insert_post', 'getBill');
+
 // This theme requires WordPress 5.3 or later.
 if ( version_compare( $GLOBALS['wp_version'], '5.3', '<' ) ) {
 	require get_template_directory() . '/inc/back-compat.php';
